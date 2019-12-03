@@ -1,0 +1,8 @@
+texto1.txt
+texto1.txt
+texto1.txt
+texto1.txt
+texto1.txt
+imagem.bmp
+log.txt
+texto1.txt
